@@ -81,9 +81,22 @@ I am an Information Technology professional with experience in systems developme
 
 ### Estatistica / Stats 📊
 
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandosfarias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandosfarias&show_icons=true&theme=tokyonight&include_all_commits=true&)
+<img
+    align="left"
+    alt="Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=fernandosfarias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
+<img
+    align="left"
+    alt="StatsENG"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=fernandosfarias&show_icons=true&theme=tokyonight&include_all_commits=true&" 
+/>
+
 <br/>
 <br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosfarias&theme=tokyonight&layout=compact&locale=pt-br)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosfarias&theme=tokyonight&layout=compact&)
