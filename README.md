@@ -83,20 +83,30 @@ I am an Information Technology professional with experience in systems developme
 
 <img
     align="left"
-    alt="Stats"
-    height="200"
+    alt="Status"
+    height="150"
     src="https://github-readme-stats.vercel.app/api?username=fernandosfarias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 <img
     align="left"
-    alt="StatsENG"
-    height="200"
+    alt="Stats"
+    height="150"
     src="https://github-readme-stats.vercel.app/api?username=fernandosfarias&show_icons=true&theme=tokyonight&include_all_commits=true&" 
 />
 
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosfarias&theme=tokyonight&layout=compact&locale=pt-br)
+<img
+    align="left"
+    alt="Grafico"
+    height="100"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosfarias&theme=tokyonight&layout=compact&locale=pt-br"
+/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosfarias&theme=tokyonight&layout=compact&)
+<img
+    align="left"
+    alt="Graphyc"
+    height="100"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosfarias&theme=tokyonight&layout=compact&"
+/>
