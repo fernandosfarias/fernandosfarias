@@ -104,8 +104,8 @@ I am an Information Technology professional with experience in systems developme
 <img
     align="left"
     alt="Grafico"
-    width="500"
-    height="200"
+    width="700"
+    height="150"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosfarias&theme=tokyonight&layout=compact&locale=pt-br&include_all_commits=true"
 />
@@ -113,8 +113,8 @@ I am an Information Technology professional with experience in systems developme
 <img
     align="left"
     alt="Graphyc"
-    width="500"
-    height="200"
+    width="700"
+    height="150"
     style="padding-left: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosfarias&theme=tokyonight&layout=compact&include_all_commits=true"
 />
