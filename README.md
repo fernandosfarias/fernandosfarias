@@ -85,12 +85,14 @@ I am an Information Technology professional with experience in systems developme
     align="left"
     alt="Status"
     height="150"
+    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=fernandosfarias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 <img
     align="left"
     alt="Stats"
     height="150"
+    style="padding-left: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=fernandosfarias&show_icons=true&theme=tokyonight&include_all_commits=true&" 
 />
 
@@ -101,6 +103,7 @@ I am an Information Technology professional with experience in systems developme
     align="left"
     alt="Grafico"
     height="200"
+    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosfarias&theme=tokyonight&layout=compact&locale=pt-br"
 />
 
@@ -108,5 +111,6 @@ I am an Information Technology professional with experience in systems developme
     align="left"
     alt="Graphyc"
     height="200"
+    style="padding-left: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosfarias&theme=tokyonight&layout=compact&"
 />
