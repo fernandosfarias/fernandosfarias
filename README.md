@@ -100,13 +100,13 @@ I am an Information Technology professional with experience in systems developme
 <img
     align="left"
     alt="Grafico"
-    height="150"
+    height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosfarias&theme=tokyonight&layout=compact&locale=pt-br"
 />
 
 <img
     align="left"
     alt="Graphyc"
-    height="150"
+    height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosfarias&theme=tokyonight&layout=compact&"
 />
