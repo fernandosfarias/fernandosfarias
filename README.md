@@ -95,7 +95,7 @@ I am an Information Technology professional with experience in systems developme
     width="700"
     height="150"
     style="padding-left: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=fernandosfarias&show_icons=true&theme=tokyonight&include_all_commits=true&" 
+    src="https://github-readme-stats.vercel.app/api?username=fernandosfarias&show_icons=true&theme=tokyonight&include_all_commits=true" 
 />
 
 <br/>
