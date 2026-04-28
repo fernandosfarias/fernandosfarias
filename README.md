@@ -7,7 +7,7 @@ Sou profissional de Tecnologia da Informação com experiência em desenvolvimen
 
 ---
 ### About me:
-I am an Information Technology professional with experience in systems development, infrastructure and data analysis, working throughout my career in process optimization and problem solving in critical environments. I started my journey in development through personal projects, where I was able to consolidate knowledge in programming, automation and data analysis. Currently, I have evolved this performance to a professional level, developing solutions aimed at different areas, with a focus on efficiency, scalability and value generation for the business.
+I am an IT professional with experience in systems development, infrastructure and data analysis, working throughout my career in process optimization and problem solving in critical environments. I started my journey in development through personal projects, where I was able to consolidate knowledge in programming, automation and data analysis. Currently, I have evolved this performance to a professional level, developing solutions aimed at different areas, with a focus on efficiency, scalability and value generation for the business.
 
 ---
 ### Linguagens e técnologias / Language and tecnology 🚀
